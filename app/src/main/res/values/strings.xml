@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">商城</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_merchant">MerchantActivity</string>
+    <string name="title_activity_customer">CustomerActivity</string>
+    <string name="title_activity_good_detail">GoodDetailActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_shopping_cart">ShoppingCartActivity</string>
+</resources>
